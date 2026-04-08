@@ -46,16 +46,6 @@
 
 ## Introduction
 
-本项目是论文  **`<User Identity Linkage across Social Media via Attentive Time-aware User Modeling>`** 的官方实现。
-
-- 用户身份链接（User Identity Linkage）旨在识别不同社交网络中属于同一现实世界实体的账号。本项目通过以下方式解决该问题：
-  - 构建大规模数据库。
-  - 提出了一种 UserNet 模型，利用注意力机制捕捉用户行为的时间特性。
-  - 实现了对跨平台用户特征的深度建模。
-- 本仓库提供了完整的模型训练与评估脚本、开源数据集
-
-### Example Description
-
 We present **`<User Identity Linkage across Social Media via Attentive Time-aware User Modeling>`**, a framework for **`<User Identity Linkage>`**.  
 Our method addresses **`<identifying accounts belonging to the same real-world entity across different social networks>`** by introducing **`<an attentive time-aware user modeling approach>`**.  
 This repository provides the official implementation, and dataset.
@@ -77,10 +67,10 @@ This repository provides the official implementation, and dataset.
 
 ```text
 .
-├── Time-M2M-Thread.py     # 核心训练与评估脚本
-├── README.md              # 项目文档
-├── requirements.txt       # 环境依赖
-└── data/                  # 数据存放目录 (需手动下载后放入)
+├── Time-M2M-Thread.py     
+├── README.md             
+├── requirements.txt      
+└── data/                 
 ```
 ---
 
