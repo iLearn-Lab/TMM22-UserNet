@@ -23,19 +23,13 @@
 
 - [Updates](#updates)
 - [Introduction](#introduction)
-- [Highlights](#highlights)
 - [Method / Framework](#method--framework)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Checkpoints / Models](#checkpoints--models)
 - [Dataset / Benchmark](#dataset--benchmark)
 - [Usage](#usage)
-- [Demo / Visualization](#demo--visualization)
-- [TODO](#todo)
 - [Citation](#citation)
 - [Acknowledgement](#acknowledgement)
-- [License](#license)
-
 ---
 
 ## Updates
@@ -57,7 +51,7 @@ This repository provides the official implementation, and dataset.
 ### Framework Figure
 
 ```markdown
-![Framework](./assets/framework.png)
+![Framework](framework.png)
 ```
 **Figure 1.** Overall framework of UserNet.
 
@@ -97,13 +91,6 @@ pip install numpy==1.16.4 tensorflow==1.9.0
 
 - **Testing Dataset**: [`Testing Dataset`](<https://drive.google.com/drive/folders/1ZPyST2mzwS_X6iegCkwUJm2T3tc5p-Yf?usp=sharing>)
 - **Training Dataset&Feature**:[`Testing Dataset`](<https://pan.baidu.com/s/1gqv1HJ1hs4VW_qm6AQggsA>) (pwd: yw9f)
-
-```text
-data/
-├── train/
-├── val/
-└── test/
-```
 
 ## Usage
 
