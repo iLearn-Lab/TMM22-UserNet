@@ -51,7 +51,7 @@ This repository provides the official implementation, and dataset.
 ### Framework Figure
 
 ```markdown
-![Framework](framework.png)
+![Framework](./assets/framework.png)
 ```
 **Figure 1.** Overall framework of UserNet.
 
