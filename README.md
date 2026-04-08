@@ -2,8 +2,6 @@
 
 > [IEEE TMM 2021] Official implementation of UserNet, an attentive time-aware framework for user identity linkage across social media platforms.
 
-**If you have any questions about the code, please feel free to contact me by email `cxlicd@gmail.com`.**
-
 ## Authors
 
 **Xiaolin Chen**<sup>1</sup>, **Xuemeng Song**<sup>1</sup>\*, **Siwei Cui**<sup>2</sup>, **Tian Gan**<sup>1</sup>, **Zhiyong Cheng**<sup>3</sup>, **Liqiang Nie**<sup>1</sup>
@@ -18,7 +16,6 @@
 - **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/9246515)
 - **Testing Dataset**: [Google Drive](https://drive.google.com/drive/folders/1ZPyST2mzwS_X6iegCkwUJm2T3tc5p-Yf?usp=sharing)
 - **Training Dataset & Feature**: [Baidu Netdisk](https://pan.baidu.com/s/1gqv1HJ1hs4VW_qm6AQggsA) (Password: `yw9f`)
-- **Code Repository**: [GitHub](https://github.com/iLearn-Lab/UserIdentityLinkage-UserNet)
 
 ---
 
